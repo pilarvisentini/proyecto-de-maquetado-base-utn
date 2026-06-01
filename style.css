@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+/* Fondos */
+--fondo-principal: hsl(233°, 18%, 9%);
+--fondo-cards: hsl(227°, 20%, 14%);
+
+/* Texto */
+--texto-principal: hsl(240°, 24%, 96%);
+--texto-secundario: hsl(231°, 16%, 75%);
+
+/* Otros */
+--barras-progreso: hsl(272°, 100%, 80%);
+--bordes-sutiles: hsl(229°, 16%, 20%);
+
+/* Fonts */
+--title-font: "Space Grotesk", sans-serif;
+--alt-font: "Inter", sans-serif;
+}
